@@ -3,7 +3,7 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
 
 
 
-📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas
 /documentacao
     /manuais
     /procedimentos
@@ -33,7 +33,6 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
 /utilidades
     /ferramentas
     /links-uteis
-
 
 
 
