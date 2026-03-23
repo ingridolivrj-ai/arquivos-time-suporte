@@ -1,4 +1,4 @@
-📦 Repositório de Arquivos
+```📦 Repositório de Arquivos
 Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, dependências e documentação utilizados pelo time.
 
 
@@ -43,7 +43,7 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
 Centralizar instaladores, frameworks e dependências.
 Facilitar o acesso rápido da equipe a arquivos essenciais.
 Organizar documentação e materiais internos.
-Padronizar o uso e armazenamento de arquivos importantes.
+Padronizar o uso e armazenamento de arquivos importantes. 
 
 
 
@@ -54,4 +54,4 @@ Padronizar o uso e armazenamento de arquivos importantes.
 Navegue pelas pastas conforme a categoria desejada.
 Faça o download dos arquivos necessários.
 Consulte a documentação conforme a necessidade.
-Mantenha o repositório organizado seguindo a estrutura padrão.
+Mantenha o repositório organizado seguindo a estrutura padrão.```
