@@ -1,7 +1,4 @@
-# Arquivos-time-suporte
-Repositório de arquivos para o time
-
-📦 Repositório de Arquivos – Time de Suporte
+📦 Arquivos do Time de Suporte
 Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, scripts e documentação utilizados pelo time de Suporte.
 
 📁 Estrutura de Pastas
@@ -74,18 +71,18 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /links-uteis
 
 
-📘 Objetivo do Repositório
+🎯 Objetivo do Repositório
 Este repositório foi criado para:
 
-Centralizar instaladores, frameworks e dependências usadas pelo time
-Facilitar o acesso a scripts SQL, configurações e ferramentas
-Organizar documentação e materiais de apoio
-Ajudar na padronização do atendimento e na agilidade das atividades de suporte
+Centralizar instaladores, frameworks e dependências.
+Facilitar o acesso a scripts SQL, configurações e ferramentas.
+Organizar documentação e materiais internos do time.
+Ajudar na padronização e agilidade do suporte.
 
 
 🚀 Como usar
 
-Navegue pelas pastas conforme a categoria desejada
-Baixe os instaladores ou arquivos necessários
-Consulte guias e manuais antes de realizar procedimentos
-Utilize scripts SQL com cautela e sempre em ambiente autorizado
+Navegue pelas pastas conforme a categoria desejada.
+Baixe os instaladores ou arquivos necessários.
+Consulte guias e manuais antes de realizar procedimentos.
+Utilize scripts SQL com cautela e sempre em ambiente autorizado.
