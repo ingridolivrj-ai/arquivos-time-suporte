@@ -1,6 +1,8 @@
 📦 Repositório de Arquivos
 Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, dependências e documentação utilizados pelo time.
 
+
+
 📁 Estrutura de Pastas
 /documentacao
     /manuais
@@ -33,12 +35,18 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /links-uteis
 
 
+
+
+
 🎯 Objetivo do Repositório
 
 Centralizar instaladores, frameworks e dependências.
 Facilitar o acesso rápido da equipe a arquivos essenciais.
 Organizar documentação e materiais internos.
 Padronizar o uso e armazenamento de arquivos importantes.
+
+
+
 
 
 🚀 Como usar
