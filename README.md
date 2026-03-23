@@ -1,7 +1,5 @@
 📦 Repositório de Arquivos
-
-Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, scripts e documentação utilizados pelo time de Suporte.
-
+Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, dependências e documentação utilizados pelo time.
 
 📁 Estrutura de Pastas
 /documentacao
@@ -9,7 +7,6 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /procedimentos
     /checklists
     /politicas
-    
 
 /instaladores
     /frameworks
@@ -25,54 +22,28 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /report-viewer
         /report-viewer-2010
         /report-viewer-2012
-    /sql
-        /sql-native-client
-        /sql-ole-db
+
+/dependencias
     /prerequisitos-kiosk
     /prerequisitos-central
     /prerequisitos-atm
 
-
-/configuracoes
-    /kiosk
-    /atm
-    /central
-    /replicacao
-    /rabbitmq
-
-
-/sql
-    /consultas
-    /correcoes
-    /scripts-rotineiros
-    /scripts-replicacao
-    /scripts-urgencia
-
-
-/atualizacoes
-    /patches
-    /versoes
-    /changelog
-
-    
 /utilidades
     /ferramentas
-    /scripts
     /links-uteis
 
 
-
 🎯 Objetivo do Repositório
-Este repositório foi criado para:
 
 Centralizar instaladores, frameworks e dependências.
-Facilitar o acesso a scripts SQL, configurações e ferramentas.
+Facilitar o acesso rápido da equipe a arquivos essenciais.
 Organizar documentação e materiais internos do time.
-Ajudar na padronização e agilidade do suporte.
+Padronizar o uso e armazenamento de arquivos importantes.
 
 
 🚀 Como usar
+
 Navegue pelas pastas conforme a categoria desejada.
-Baixe o instalador ou arquivo necessário.
-Consulte manuais e documentação conforme a necessidade.
+Faça o download dos arquivos necessários.
+Consulte a documentação conforme a necessidade.
 Mantenha o repositório organizado seguindo a estrutura padrão.
