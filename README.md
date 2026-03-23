@@ -1,4 +1,4 @@
-# 📦 Arquivos do Time de Suporte
+📦 #Repositório de Arquivos
 
 Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, scripts e documentação utilizados pelo time de Suporte.
 
@@ -82,8 +82,7 @@ Ajudar na padronização e agilidade do suporte.
 
 
 🚀 Como usar
-
 Navegue pelas pastas conforme a categoria desejada.
-Baixe os instaladores ou arquivos necessários.
-Consulte guias e manuais antes de realizar procedimentos.
-Utilize scripts SQL com cautela e sempre em ambiente autorizado.
+Baixe o instalador ou arquivo necessário.
+Consulte manuais e documentação conforme a necessidade.
+Mantenha o repositório organizado seguindo a estrutura padrão.
