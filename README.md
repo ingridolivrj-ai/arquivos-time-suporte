@@ -3,7 +3,15 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
 
 
 
-## 📁 Estrutura de Pastas
+📚 Índice
+
+#-estrutura-de-pastas
+#-objetivo-do-repositório
+#-como-usar
+#-acesso-rápido-às-pastas
+
+
+📁 Estrutura de Pastas
 /documentacao
     /manuais
     /procedimentos
@@ -11,19 +19,10 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /politicas
 
 /instaladores
-    /frameworks
-        /dotnet
-        /aspnet
-        /net-core-runtime
-        /net-desktop-runtime
-    /visual-cpp
-        /vc_redist_2010
-        /vc_redist_2012
-        /vc_redist_2013
-        /vc_redist_2015-2019-2022
+    /aspnet
+    /framework-net
     /report-viewer
-        /report-viewer-2010
-        /report-viewer-2012
+    /visual-cpp
 
 /dependencias
     /prerequisitos-kiosk
@@ -35,22 +34,44 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /links-uteis
 
 
-
-
 🎯 Objetivo do Repositório
+Este repositório foi criado para:
 
-Centralizar instaladores, frameworks e dependências.
-Facilitar o acesso rápido da equipe a arquivos essenciais.
-Organizar documentação e materiais internos.
-Padronizar o uso e armazenamento de arquivos importantes. 
-
-
-
+Centralizar instaladores, frameworks e dependências essenciais
+Facilitar o acesso rápido do time a arquivos importantes
+Padronizar o armazenamento e organização dos materiais
+Servir como referência única para documentação interna e utilidades
 
 
 🚀 Como usar
 
-Navegue pelas pastas conforme a categoria desejada.
-Faça o download dos arquivos necessários.
-Consulte a documentação conforme a necessidade.
-Mantenha o repositório organizado seguindo a estrutura padrão.```
+Acesse as pastas conforme a categoria desejada
+Baixe os arquivos necessários
+Consulte manuais ou documentação quando aplicável
+Mantenha o repositório organizado seguindo a estrutura estabelecida
+
+
+🔗 Acesso rápido às pastas
+📦 Instaladores
+
+instaladores/aspnet
+instaladores/framework-net
+instaladores/visual-cpp
+instaladores/report-viewer
+
+📚 Documentação
+
+documentacao
+documentacao/manuais
+documentacao/procedimentos
+
+🧩 Dependências
+
+dependencias/prerequisitos-kiosk
+dependencias/prerequisitos-central
+dependencias/prerequisitos-atm
+
+🛠️ Utilidades
+
+utilidades/ferramentas
+utilidades/links-uteis ```
