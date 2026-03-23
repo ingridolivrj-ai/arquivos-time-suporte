@@ -37,7 +37,7 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
 
 Centralizar instaladores, frameworks e dependências.
 Facilitar o acesso rápido da equipe a arquivos essenciais.
-Organizar documentação e materiais internos do time.
+Organizar documentação e materiais internos.
 Padronizar o uso e armazenamento de arquivos importantes.
 
 
