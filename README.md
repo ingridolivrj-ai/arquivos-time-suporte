@@ -1,6 +1,7 @@
-📦 #Repositório de Arquivos
+📦 Repositório de Arquivos
 
 Repositório destinado ao armazenamento e compartilhamento de arquivos, instaladores, scripts e documentação utilizados pelo time de Suporte.
+
 
 📁 Estrutura de Pastas
 /documentacao
@@ -8,6 +9,7 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /procedimentos
     /checklists
     /politicas
+    
 
 /instaladores
     /frameworks
@@ -30,12 +32,14 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /prerequisitos-central
     /prerequisitos-atm
 
+
 /configuracoes
     /kiosk
     /atm
     /central
     /replicacao
     /rabbitmq
+
 
 /sql
     /consultas
@@ -44,32 +48,18 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
     /scripts-replicacao
     /scripts-urgencia
 
-/diagnosticos
-    /erros-comuns
-    /passo-a-passo
-    /logs-exemplo
-    /capturas-rede
 
 /atualizacoes
     /patches
     /versoes
     /changelog
 
-/treinamentos
-    /onboarding
-    /videos
-    /conteudos-de-apoio
-
-/modelos
-    /emails
-    /respostas-ao-cliente
-    /templates-gmud
-    /comunicacoes-times
-
+    
 /utilidades
     /ferramentas
     /scripts
     /links-uteis
+
 
 
 🎯 Objetivo do Repositório
