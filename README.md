@@ -5,10 +5,10 @@ Repositório destinado ao armazenamento e compartilhamento de arquivos, instalad
 
 📚 Índice
 
-#-estrutura-de-pastas
-#-objetivo-do-repositório
-#-como-usar
-#-acesso-rápido-às-pastas
+#estrutura-de-pastas
+#objetivo-do-repositório
+#como-usar
+#acesso-rápido-às-pastas
 
 
 📁 Estrutura de Pastas
