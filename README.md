@@ -1,4 +1,4 @@
-# arquivos-time-suporte
+# Arquivos-time-suporte
 Repositório de arquivos para o time
 
 📦 Repositório de Arquivos – Time de Suporte
